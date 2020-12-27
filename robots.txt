@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://jhmuller.github.io/ga-votes-2020-11-03/sitemap.xml
